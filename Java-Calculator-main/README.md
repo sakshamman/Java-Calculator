@@ -2,7 +2,7 @@
 
 <h2>Overview</h2>
 <p>The Calculator App is a Java application that provides a graphical user interface (GUI) for performing basic arithmetic calculations. It uses Swing components for the GUI and includes features such as number input, arithmetic operations, and result display.</p>
-<p>Checkout the full tutorial <a href="https://www.youtube.com/watch?v=IuGh1pXLfhc">here</a></p>
+
 <h2>Files</h2>
 
 <ol>
